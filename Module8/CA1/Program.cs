@@ -35,7 +35,7 @@ namespace CA1
             foreach (string line in lines)
                 WriteLine(line)
         */
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello");
             Console.WriteLine("This is CA1");
             Console.WriteLine("This is CA1 again");
             Console.WriteLine("This is CA1 again");
